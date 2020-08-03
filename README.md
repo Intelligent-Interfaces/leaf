@@ -1,2 +1,2 @@
 # leaf
-An engine for making beautiful digital booklets.
+A engine for making beautiful digital booklets.
