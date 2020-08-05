@@ -1,5 +1,10 @@
-# leaf
-A engine (`leaf.engine.ai`) for making beautiful digital booklets.
+# **leaf**
+[![Generic badge](https://img.shields.io/badge/ai_expression-ENGINE-<COLOR>.svg)](https://shields.io/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
+
+![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)
+> A engine (`leaf.engine.ai`) for making beautiful digital booklets.
 
 ## Necessity is the Mother of Invention
 
@@ -8,6 +13,11 @@ During 2020 a particular epidemiological constraint encouraged the publications:
 As the computational guide for these projects I was not too fond of the current options for digital booklet making. So, I decided to make another option. Thus, `leaf` was birthed: **to specify and build beautiful digital documents.**
 
 ### Overview on form and structure
-[Click here](https://storage.googleapis.com/root-proposal-1246/leaf/leaf.engine.mp4) to see video for  `leaf.engine()` prototype
+[Click here](https://storage.googleapis.com/root-proposal-1246/leaf/leaf.engine.mp4) to see video for `leaf.engine()` prototype
 
 ![MR](library/img/leaf_ex_1.png)
+
+### `ai expressions` for `leaf.engine()`
+[Click here](https://storage.googleapis.com/root-proposal-1246/leaf/lecture-1.mp4) to see the definition of a `hyperpage` using `ai expressions`
+
+![EX](library/img/ai_expressions.png)
