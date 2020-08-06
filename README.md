@@ -4,7 +4,7 @@
 [![Generic badge](https://img.shields.io/badge/ai_expression-ENGINE-<COLOR>.svg)](https://shields.io/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
-> A engine (`leaf.engine.ai`) for making beautiful digital booklets.
+> An engine (`leaf.engine.ai`) for making beautiful digital booklets.
 
 ## Necessity is the Mother of Invention
 During 2020 a particular epidemiological constraint encouraged the publications: [region](), [MR](), [LS2](), [AL](), [DS4_CS]() to each be digital-first publications.
