@@ -1,4 +1,4 @@
-# **leaf**
+# `leaf`
 ![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)
 
 [![Generic badge](https://img.shields.io/badge/ai_expression-ENGINE-<COLOR>.svg)](https://shields.io/)
@@ -17,6 +17,6 @@ As the computational guide for these projects I was not too fond of the current 
 ![MR](library/img/leaf_ex_1.png)
 
 ### `ai expressions` for `leaf.engine()`
-[Click here](https://storage.googleapis.com/root-proposal-1246/leaf/lecture-1.mp4) to see the definition of a `hyperpage` using `ai expressions`
+[Click here](https://storage.googleapis.com/root-proposal-1246/leaf/lecture-1.mp4) to see the definition of a `hyperpage` using `ai expressions`:
 
-![EX](library/img/ai_expressions.png)
+![ai-expression](library/img/ai_expressions.png)
