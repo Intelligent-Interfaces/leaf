@@ -7,7 +7,7 @@
 > An engine (`leaf.engine.ai`) for making beautiful digital booklets.
 
 ## Necessity is the Mother of Invention
-During 2020 a particular epidemiological constraint encouraged the publications: [region](), [MR](), [LS2](), [AL](), [DS4_CS]() to each be digital-first publications.
+During 2020 a particular epidemiological constraint encouraged the publications: [region](), [MR](), [LS2](), [AL](https://eoduniyi.github.io/anon-letters/), [DS4_CS]() to each be digital-first publications.
 
 As the computational guide for these projects I was not too fond of the current options for digital booklet making. So, I decided to make another option. Thus, `leaf` was birthed: **to specify and build beautiful digital documents.**
 
