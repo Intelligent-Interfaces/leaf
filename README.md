@@ -19,4 +19,4 @@ As the computational guide for these projects I was not too fond of the current 
 ### `ai expressions` for `leaf.engine()`
 [Click here](https://storage.googleapis.com/root-proposal-1246/leaf/lecture-1.mp4) to see the definition of a `hyperpage` using `ai expressions`:
 
-![ai-expression](library/img/ai_expressions.png)
+![ai-expression-def](library/img/ai_expressions.png)
