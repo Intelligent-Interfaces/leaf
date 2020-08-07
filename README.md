@@ -20,3 +20,7 @@ As the computational guide for these projects I was not too fond of the current 
 [Click here](https://storage.googleapis.com/root-proposal-1246/leaf/lecture-1.mp4) to see the definition of a `hyperpage` using `ai expressions`:
 
 ![ai-expression-def](library/img/ai_expressions.png)
+
+---
+#
+![LL](library/img/IMG_20200806_223215_541_edited.jpeg)
