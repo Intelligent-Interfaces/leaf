@@ -21,6 +21,9 @@ As the computational guide for these projects I was not too fond of the current 
 
 ![ai-expression-def](library/img/ai_expressions.png)
 
+_Computing Architect,  
+E. Oduniyi_
+
 ---
-#
-![LL](library/img/IMG_20200806_223215_541_edited.jpeg)
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
