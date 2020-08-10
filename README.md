@@ -21,7 +21,7 @@ As the computational guide for these projects I was not too fond of the current 
 
 ![ai-expression-def](library/img/ai_expressions.png)
 
-_Computing Architect,  
+_Maintainer and Senior Computing Architect,  
 E. Oduniyi_
 
 ---
